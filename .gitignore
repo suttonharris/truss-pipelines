@@ -1,0 +1,7 @@
+*.json
+.env
+*.csv
+.dlt/secrets.toml
+__pycache__/
+.venv/
+venv/
